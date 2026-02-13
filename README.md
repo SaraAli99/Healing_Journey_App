@@ -25,3 +25,4 @@ Personalized meal plans tailored to users’ dietary needs.
 Tracks calorie intake and nutritional information.
 
 Allows users to share their meals and track progress with others.
+##
