@@ -1,5 +1,5 @@
 # Healing Journey
-UX/UI case study for a healthy food mobile app designed for people with diabetes and high blood pressure. The app helps users choose suitable meals, track calories and nutrients, and follow personalized diet plans.
+Healing Journey is a mobile platform for Mental Health Tourism. It helps users find and book professional rehabilitation programs in peaceful travel destinations, offering direct expert consultations and a supportive community for recovery.
 
 # 👥 Team Members
 Dina Tarek Abd El Meguid<br>
