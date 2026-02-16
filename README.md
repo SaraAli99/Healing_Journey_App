@@ -2,8 +2,8 @@
 Healing Journey is a mobile platform for Mental Health Tourism. It helps users find and book professional rehabilitation programs in peaceful travel destinations, offering direct expert consultations and a supportive community for recovery.
 
 # 👥 Team Members
+Sara Ali Mohamed Hassan (Team leader)<br>
 Dina Tarek Abd El Meguid<br>
-Sara Ali Mohamed Hassan<br>
 Nada Ibrahem Mohamed<br>
 Malak Hassan Abdel Moneim<br>
 Abdelrahman Ahmed Ibrahem<br>
