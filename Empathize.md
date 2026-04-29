@@ -43,14 +43,6 @@ Through this phase, I identified that users are not just looking for a "place to
 
 ---
 
-## 🖼️ Empathize Phase Board
-This snapshot shows the organization of my research notes, survey results, and competitor matrix:
-
-![Healio Mind Empathize Board](./assets/empathize_board.jpg)
-*(Visuals from my FigJam research workspace)*
-
----
-
 ## 🔗 Quick Links
-* [🔗 Full Research Data on Figma](YOUR_FIGMA_LINK)
+* [🔗 Full Research Data on Figma](https://www.figma.com/board/XgVf23Pp4gVvXXmQ1qR2WH/Healing-Journey-app?node-id=0-1&t=evfYPliQKKNB9sxR-1)
 * [Next Phase: Define ➡](./Define.md)
